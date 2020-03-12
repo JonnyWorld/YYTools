@@ -1200,6 +1200,8 @@
      return dateStr;  
 }
 
-
++ (NSString *)version {
+    return @"0.1.0";
+}
 
 @end

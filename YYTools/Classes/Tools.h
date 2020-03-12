@@ -225,4 +225,7 @@ typedef NS_ENUM(NSUInteger, UCPlaceHolderType) {
 + (NSMutableAttributedString *)appendContent:(NSString *)content;
 
 + (NSMutableAttributedString *)appendDetailContent:(NSString *)content;
+
+//库版本
++ (NSString *)version;
 @end
