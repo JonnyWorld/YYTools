@@ -1,0 +1,16 @@
+PODS:
+  - YYTools (0.1.0)
+
+DEPENDENCIES:
+  - YYTools (from `../`)
+
+EXTERNAL SOURCES:
+  YYTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYTools: 6fc3664fec20703c7a2f7651be00c9c32dd87edb
+
+PODFILE CHECKSUM: 78e3072f5c8f088cd8b0cf5e69ba0037c5223d0f
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,22 @@
+{
+  "name": "YYTools",
+  "version": "0.1.0",
+  "summary": "A short description of YYTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/baozhoua/YYTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "baozhoua": "baozhoua@163.com"
+  },
+  "source": {
+    "git": "https://github.com/baozhoua/YYTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYTools/Classes/**/*"
+}
